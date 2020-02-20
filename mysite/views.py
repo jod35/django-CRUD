@@ -10,7 +10,5 @@ def add_employees(request):
 def update_employees(request):
     return render(request,template_name='')
 
-def delete_employees(request):
-    return render(request,template_name='')
 
-    
+
